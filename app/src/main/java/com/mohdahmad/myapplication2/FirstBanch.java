@@ -28,6 +28,8 @@ public class FirstBanch extends AppCompatActivity
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
         drawer.addDrawerListener(toggle);
+
+        Log.d("mergerlog","mernfklfnvkfv");
         toggle.syncState();
         Log.d("git","mernfklfnvkfv");
         Log.d("change","mernfklfnvkfv");
