@@ -34,6 +34,8 @@ public class FirstBanch extends AppCompatActivity
         navigationView.setNavigationItemSelectedListener(this);
 
         Log.d("mergerlog","mernfklfnvkfv");
+
+        
     }
 
     @Override
