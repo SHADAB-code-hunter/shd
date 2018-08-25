@@ -31,6 +31,9 @@ public class FirstBanch extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+        NavigationView navigationView2 = (NavigationView) findViewById(R.id.nav_view);
+        navigationView2.setNavigationItemSelectedListener(this);
     }
 
     @Override
