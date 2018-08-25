@@ -30,8 +30,6 @@ public class FirstBanch extends AppCompatActivity
         drawer.addDrawerListener(toggle);
         toggle.syncState();
         Log.d("mergerlog","mernfklfnvkfv");
-
-
     }
 
     @Override
