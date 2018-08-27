@@ -26,6 +26,7 @@ public class MainActivity2 extends AppCompatActivity {
         }).start();
         View view=this.findViewById(R.id.action_settings);
         View view2=this.findViewById(R.id.action_settings);
+        View view3=this.findViewById(R.id.action_settings);
 
     }
 }
